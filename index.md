@@ -5,3 +5,6 @@ I added 2 headers an H1 and H3 header
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
